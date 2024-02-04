@@ -1,2 +1,2 @@
-# leandrowkz.dev
+# 🌍 leandrowkz.dev
 Personal website.
